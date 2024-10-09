@@ -1,5 +1,7 @@
 # Dos programador@s y un teclado
 
+https://docs.google.com/presentation/d/1MPT__zXTIWIAFi_sBCxycfknXbw364Bhs8RVuAWLDjY/edit?usp=sharing
+
 https://martinfowler.com/articles/on-pair-programming.html
 
 https://martinfowler.com/bliki/ExtremeProgramming.html
