@@ -15,3 +15,5 @@ https://mistral.ai/news/codestral/
 https://preview.devin.ai/
 
 https://steady.space/blog/understanding-the-agile-triangles-role-in-product-development/
+
+https://www.linkedin.com/in/alvaroblazquez/
